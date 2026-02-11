@@ -13,7 +13,10 @@ export default function Page() {
             Potluck Planner
           </h1>
           <p className="text-sm text-muted-foreground">
-            Cat Baby Shower - Theme: Around the World (Dish from any culture)
+            Cat Baby Shower 
+          </p>       
+          <p className="text-sm text-muted-foreground">
+            Theme: Around the World (Dish from any culture)
           </p>
         </header>
         <PotluckApp />
